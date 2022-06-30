@@ -1,2 +1,2 @@
 ### Blockchain based Algorithms
-##### Implemented RSA AND ECDSA
+##### Implementation of RSA AND ECDSA
